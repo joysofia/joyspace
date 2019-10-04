@@ -1,0 +1,23 @@
+---
+title: 'First '
+author: ''
+date: '2019-10-04'
+slug: first
+categories: []
+tags: []
+description: ''
+featured_image: ''
+---
+No one can be me like me  
+
+沒人可以假裝世界上獨一無二的我
+
+
+
+
+### 測試
+
+```{r}
+plot(cars)
+```
+
